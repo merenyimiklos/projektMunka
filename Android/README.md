@@ -1,1 +1,2 @@
-Ez az Android readme
+
+ez egy új sor
